@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"code.google.com/p/freetype-go/freetype"
+	"github.com/golang/freetype"
 	"github.com/odeke-em/rsc/appfs/fs"
 	"github.com/odeke-em/rsc/qr"
 	"github.com/odeke-em/rsc/qr/coding"
